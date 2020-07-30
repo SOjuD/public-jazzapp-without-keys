@@ -1,0 +1,11 @@
+.form-group span{
+    display: block;
+    margin-bottom: 8px;
+}
+.form-group input {
+    display: block;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}

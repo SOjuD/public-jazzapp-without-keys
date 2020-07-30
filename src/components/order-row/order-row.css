@@ -1,0 +1,8 @@
+.order_row{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.order_row:nth-child(even){
+    background: rgba(204, 204, 204, 0.15);
+}

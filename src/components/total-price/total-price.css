@@ -1,0 +1,10 @@
+.totalPriceRow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+}
+.totalPriceRow *{
+    font-size: 21px;
+    font-weight: 500;
+}

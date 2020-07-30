@@ -1,0 +1,10 @@
+.radios{
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.radios .form-check{
+    width: 100%;
+    margin: 0;
+}

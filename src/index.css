@@ -1,0 +1,9 @@
+body{
+  padding-top: 50px;
+}
+*{
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.row h3{
+  margin-bottom: 15px;
+}

@@ -1,0 +1,14 @@
+.saleRow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+.saleTitle{
+    font-size: 21px;
+    font-weight: 500;
+}
+.sale-label{
+    padding-right: 0;
+}
